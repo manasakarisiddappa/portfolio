@@ -2,6 +2,7 @@ import GameHub from "../assets/projects/GameHub.PNG";
 import ImageGallery from "../assets/projects/imageGallery.PNG";
 import HotelBooking from "../assets/projects/HotelBooking.PNG";
 import SoundDesign from "../assets/projects/soundDesign.PNG";
+import SpotifyClone from "../assets/projects/spotifyClone.PNG";
 
 export const data = [
   {
@@ -31,5 +32,12 @@ export const data = [
     image: GameHub,
     github: "https://github.com/manasakarisiddappa/game-hub",
     live: "https://game-hub-roan-three.vercel.app/",
+  },
+  {
+    id: 5,
+    name: "SpotifyClone",
+    image: SpotifyClone,
+    github: "https://github.com/manasakarisiddappa/spotify",
+    live: "https://66478f7dabb34a0101c6e54f--genuine-faloodeh-87acbd.netlify.app/",
   },
 ];
