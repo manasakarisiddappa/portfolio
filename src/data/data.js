@@ -33,11 +33,4 @@ export const data = [
     github: "https://github.com/manasakarisiddappa/game-hub",
     live: "https://game-hub-roan-three.vercel.app/",
   },
-  {
-    id: 5,
-    name: "SpotifyClone",
-    image: SpotifyClone,
-    github: "https://github.com/manasakarisiddappa/spotify",
-    live: "https://66478f7dabb34a0101c6e54f--genuine-faloodeh-87acbd.netlify.app/",
-  },
 ];
