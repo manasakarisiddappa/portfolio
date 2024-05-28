@@ -23,19 +23,19 @@ const Navbar = () => {
           M
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          N
+          n
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          S
+          s
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
           {"  "}
@@ -44,37 +44,37 @@ const Navbar = () => {
           K
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          R
+          r
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          I
+          i
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          S
+          s
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          I
+          i
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          D
+          d
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          D
+          d
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          P
+          p
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          P
+          p
         </span>
         <span class="inline-block text-transparent bg-gradient-to-r from-pink-400 to-pink-600 bg-clip-text shadow-lg animate-gradient-x">
-          A
+          a
         </span>
       </div>
 
