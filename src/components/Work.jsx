@@ -16,7 +16,7 @@ const Work = () => {
           </p>
           <p className="py-6"> Check out some of my recent work</p>
         </div>
-        <div className="grid sm:grid-cols-3 gap-4">
+        <div className="grid sm:grid-cols-4 gap-4">
           {project.map((item, index) => (
             <div
               key={index}
