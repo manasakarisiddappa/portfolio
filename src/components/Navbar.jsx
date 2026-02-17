@@ -153,7 +153,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://www.linkedin.com/in/manasa-karisiddappa-81526918a/"
-              target="_blank"
+              target="_blank"  rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -162,7 +162,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://github.com/manasakarisiddappa"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
@@ -179,7 +179,7 @@ const Navbar = () => {
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="https://drive.google.com/file/d/1qXqbcGYUlFzcxVaY_aLV0d6wtB9i7wgg/view?usp=sharing"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
